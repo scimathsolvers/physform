@@ -1,1 +1,18 @@
 
+.License {
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    h1 {
+        text-align: center;
+        font-size: xx-large;
+    }
+}
+
+.Language {
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    h2 {
+        text-align: center;
+        font-size: x-large;
+    }
+}

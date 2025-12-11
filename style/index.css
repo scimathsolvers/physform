@@ -16,3 +16,13 @@
         font-size: x-large;
     }
 }
+
+.goal {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    h1 {
+        text-align: center;
+        font-size: x-large;
+    }
+}
+

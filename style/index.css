@@ -26,3 +26,13 @@
     }
 }
 
+a {
+    color:rgb(0, 68, 255);
+    text-decoration: none;
+    span:hover {
+        text-decoration: underline;
+    }
+    span:visited {
+        color:darkslategray;
+    }
+}
